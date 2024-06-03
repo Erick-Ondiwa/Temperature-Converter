@@ -29,6 +29,7 @@ align-items: center;
 .display_temp{
   padding: 4px 20px;
   display: flex;
+  text-align: center;
   align-items: center;
   justify-content: center;
   margin-bottom: 0px;
